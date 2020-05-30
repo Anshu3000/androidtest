@@ -1,15 +1,15 @@
 package com.example.git1pro;
 
 public class QuesBank {
-    private  String ques;
+    private  int ques;
     private  boolean ans;
 
-    public QuesBank(String ques, boolean ans) {
+    public QuesBank(int ques, boolean ans) {
         this.ques = ques;
         this.ans = ans;
     }
 
-    public void setQues(String ques) {
+    public void setQues(int ques) {
         this.ques = ques;
     }
 
@@ -17,7 +17,7 @@ public class QuesBank {
         this.ans = ans;
     }
 
-    public String getQues() {
+    public int getQues() {
         return ques;
     }
 
