@@ -10,10 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //hello world
-        // this is a branch change comment
-        // 1
-        //2
-        //3
+
     }
 }
