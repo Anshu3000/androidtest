@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">git1pro</string>
+    <string name="Wrong">Wrong answer</string>
+    <string name="right">Right answer</string>
+    <string name="true1">TRUE</string>
+    <string name="false1">FALSE</string>
+    <string name="ques1">india independent at 1995</string>
+    <string name="ques2">i am anshu jaiswal</string>
+    <string name="ques3">i am student</string>
+    <string name="ques4">its life is boring</string>
+    <string name="ques5">i <b>love</b> to watch movie</string>
+    <string name="ques6">i like to watch anime</string>
+    <string name="ques7">i live in govindpuri </string>
 </resources>
